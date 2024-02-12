@@ -38,3 +38,4 @@ print("My name is {}".format(Rodger.name))
 print("My name is {}".format(Tommy.name))
 
 # here, attr1 is class attribute but name is instance attribute.
+# Thisis comment
