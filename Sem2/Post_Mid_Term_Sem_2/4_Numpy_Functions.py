@@ -30,7 +30,6 @@ print(arr)
 
 out = np.sum(arr, axis=0) #along rows/vertically
 print(out)
-
 out = np.sum(arr, axis=1) #along columns/horizontally
 print(out)
 
